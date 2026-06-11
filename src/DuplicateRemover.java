@@ -2,8 +2,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashSet;
 
 /**
  * The DuplicateRemover class provides a method to remove duplicate words
